@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "dependencies": {
     "postcss": "^6.0.6",
     "postcss-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
   }
 }
