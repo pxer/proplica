@@ -1,0 +1,24 @@
+{
+  "name": "proplica",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxer/proplica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxer/proplica/issues"
+  },
+  "homepage": "https://github.com/pxer/proplica#readme",
+  "dependencies": {
+    "postcss": "^6.0.6",
+    "postcss-js": "^1.0.0"
+  }
+}
